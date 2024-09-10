@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: phzae4klj-go-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/phzae4klj-go
